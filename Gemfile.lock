@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/lsegal/yard-js
+  revision: c76decbd26c9fe82889d72e10ce50c12cdbe51ff
+  specs:
+    yard-js (0.1.3)
+
 GEM
   specs:
     yard (0.9.26)
@@ -7,6 +13,7 @@ PLATFORMS
 
 DEPENDENCIES
   yard (~> 0.9.26)
+  yard-js!
 
 BUNDLED WITH
    1.17.3
