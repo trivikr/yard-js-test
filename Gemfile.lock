@@ -1,0 +1,12 @@
+GEM
+  specs:
+    yard (0.9.26)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  yard (~> 0.9.26)
+
+BUNDLED WITH
+   1.17.3
