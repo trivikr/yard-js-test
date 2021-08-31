@@ -11,14 +11,14 @@ GEM
     parsejs (0.0.1)
       kpeg
       yard
-    yard (0.9.26)
+    yard (0.9.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   parsejs (~> 0.0.1)
-  yard (~> 0.9.26)
+  yard (= 0.9.5)
   yard-js!
 
 BUNDLED WITH
