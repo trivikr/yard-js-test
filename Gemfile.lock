@@ -12,6 +12,7 @@ GEM
       kpeg
       yard
     yard (0.9.5)
+    yard-sitemap (1.0.1)
 
 PLATFORMS
   ruby
@@ -20,6 +21,7 @@ DEPENDENCIES
   parsejs (~> 0.0.1)
   yard (= 0.9.5)
   yard-js!
+  yard-sitemap (~> 1.0)
 
 BUNDLED WITH
    1.17.3
