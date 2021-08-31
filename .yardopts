@@ -1,0 +1,5 @@
+--exclude lib/inherit.js
+--title "Testing doc generation using yard-js"
+--plugin js
+--define-class-expr inherit
+lib/*.js
