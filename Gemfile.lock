@@ -15,7 +15,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     kpeg (1.1.0)
-    yard (0.9.5)
+    yard (0.9.26)
     yard-sitemap (1.0.1)
 
 PLATFORMS
@@ -23,7 +23,7 @@ PLATFORMS
 
 DEPENDENCIES
   parsejs!
-  yard (= 0.9.5)
+  yard (~> 0.9.5)
   yard-js!
   yard-sitemap (~> 1.0)
 
