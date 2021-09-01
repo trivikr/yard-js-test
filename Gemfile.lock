@@ -4,17 +4,13 @@ GIT
   specs:
     yard-js (0.1.3)
 
-PATH
-  remote: doc-src/parsejs
-  specs:
-    parsejs (0.0.1)
-      kpeg
-      yard
-
 GEM
   remote: https://rubygems.org/
   specs:
     kpeg (1.1.0)
+    parsejs (0.0.1)
+      kpeg
+      yard
     yard (0.9.5)
     yard-sitemap (1.0.1)
 
@@ -22,7 +18,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  parsejs!
+  parsejs (~> 0.0.1)
   yard (= 0.9.5)
   yard-js!
   yard-sitemap (~> 1.0)
